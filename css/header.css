@@ -1,0 +1,30 @@
+#logo {
+	height:100px;
+}
+
+.text-logo-colors_1 {
+	color:blue;
+	font-size:40px;
+}
+
+.text-logo-colors_2 {
+	color:green;
+	font-size:30px;
+	margin-left: 78px;
+    margin-top: -27px;
+}
+
+.themes_page {
+	color:white;
+	margin-left:50%;
+}
+
+.light {
+	background-color: white;
+	color:#b58d1c	;
+}
+
+.dark{
+	background-color:black;
+	color:black;
+}

@@ -1,0 +1,45 @@
+.footer {
+	background-color:#521818;
+	height:3.5rem
+}
+
+.insta {
+	display:inline-block;
+	margin-left:5%;
+	font-size:17px;
+	margin-top:7px;
+}
+
+.telegram {
+	display:inline-block;
+	margin-left:50%;
+	font-size:17px;
+	margin-top:7px;
+}
+
+#insta-logo {
+	width: 25px;
+    height: 25px;
+	margin-left: 217px;
+	margin-top: 14px;
+}
+
+#telega-logo {
+	width:25px;
+	height:25px;
+	
+}
+
+.insta a{
+	text-decoration:none;
+	color:black;
+}
+
+.telegram a{
+	text-decoration:none;
+	color:black;
+}
+
+a{
+	text-decoration:none;
+}

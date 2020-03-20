@@ -1,0 +1,122 @@
+@import "footer.css";
+@import "header.css";
+
+
+* {
+	box-sizing:border-box;
+	margin:0px;
+}
+
+
+body {
+ background-color:black;
+}
+
+.container {
+	min-height:450px;
+	height:100%;
+	display:flex;
+}
+
+.side-bar {
+	display:block;
+	background-color:#521818;
+	margin-top:15%;
+	min-height: 289px;
+    max-width: 309px;
+	height:100%;
+	width:100%;
+	margin-top: 5%;
+	margin-left:18px;
+	border-radius:2%;
+}
+
+.btn-add-block_info {
+	height: 35px;
+    width: 37px;
+    border-radius:50%;
+    margin-left:28%;
+    margin-top: -1%;
+    border:none;
+    color:#ffa707;
+    font-size:30px;
+    background-color:#085df9;
+}
+
+.faculty-name-all {
+	margin-left: 35%;
+    margin-top: 5%;
+    font-size:25px;
+}
+
+.margin_fac{
+	margin-left: 60%;
+    margin-top: -6%;
+}
+
+
+.container_page {
+	display: flex;
+    height: 25px;
+    width: 25px;
+    margin-top: 38%;
+    margin-left: -28%;
+}
+
+.brd {
+	border:none;
+	background-color: #525252;
+}
+
+.main-info {
+     opacity: 90%;
+	width: 66%;
+    height: 379px;
+    margin-top: 6%;
+	margin-left: -42%;
+	
+}
+
+.container_date {
+	display:flex;
+	height: 435px;
+	width: 900px;
+	margin-top:66px;
+	margin-left:-300px;
+	border-radius: 3%;
+	flex-wrap:wrap;
+	overflow-y: auto;
+}
+
+.cont_date {
+	height:200px;
+	width: 200px;
+	padding: 5px;
+	background-color:#521818;
+	border-radius:3%;
+	box-sizing: border-box;
+	font-size:20px;
+	margin: 1px;
+	
+}
+
+.btn-search_info {
+	height: 35px;
+    width: 37px;
+    border-radius:50%;
+    margin-left:-20%;
+    margin-top: -1%;
+    border:none;
+    color:#ffa707;
+    font-size:30px;
+    background-color:#085df9;
+}
+
+.main_search_info {
+	opacity: 90%;
+   width: 66%;
+   height: 379px;
+   margin-top: 6%;
+   margin-left: -42%;
+   
+}
